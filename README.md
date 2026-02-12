@@ -1,7 +1,7 @@
 # Линейка — направляющие линии прямо в браузере (аналог расширения PageLiner)
 
 <p align="center">
-  <img src="https://fastpic.org/view/127/2026/0212/_eb2cd7ce66bf94be4853a3dd69f39265.png.html" alt="PageLiner в работе" width="800"/>
+  <img src="https://raw.githubusercontent.com/KODGPT/pageliner/refs/heads/main/Screenshot.png" alt="PageLiner в работе" width="800"/>
   <br/>
   <em>Горизонтальные и вертикальные направляющие — как в Figma, прямо в браузере</em>
 </p>
