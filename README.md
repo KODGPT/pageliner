@@ -1,4 +1,4 @@
-# Линейка — направляющие линии прямо в браузере (аналог расширения PageLiner)
+# Линейка — направляющие линии в браузере (аналог расширения PageLiner)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KODGPT/pageliner/refs/heads/main/Screenshot.png" alt="PageLiner в работе" width="800"/>
